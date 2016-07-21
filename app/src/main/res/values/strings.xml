@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="choose_the_best_gif">Choose the best gif</string>
+    <string name="find_gif">Find gif</string>
+    <string name="enter_term">Enter a search term</string>
+    <string name="share">Share</string>
+    <string name="downloaded">File downloaded</string>
+    <string name="ok">OK</string>
+    <string name="downloading">Downloading file..</string>
+    <string name="save">Save</string>
+    <string name="storage_name">/Giphy/</string>
+    <string name="find_gif_by_tag">Find gif by tag</string>
+    <string name="gif_battle">Gif battle</string>
+    <string name="not_found">Gif not found</string>
+    <string name="add_to_favorite">Add to favorites</string>
+    <string name="favorite">Favorite Gifs</string>
+    <string name="addes_to_favorite">Added to favorites</string>
+    <string name="delete_from_favorite">Delete from favorites</string>
+    <string name="deleted_from_favorite">Deleted from favorites</string>
+    <string name="empty">You have not favorite gifs</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
